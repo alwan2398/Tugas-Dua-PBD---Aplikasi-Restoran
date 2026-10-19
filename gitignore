@@ -1,0 +1,15 @@
+# File kompilasi Java
+*.class
+*.jar
+
+# File IDE
+.idea/
+.vscode/
+*.iml
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
